@@ -1,4 +1,4 @@
-"# Homework #1
+# Homework #1
 
 This contains create a simple "Hello World" API. Meaning:  
 
@@ -12,4 +12,3 @@ This assignment was implemented only with routes:
 
 - #  /
 	Any other path will return a handler not found message.
-"
