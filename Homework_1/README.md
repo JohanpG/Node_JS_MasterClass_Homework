@@ -1,6 +1,6 @@
 # Homework #1
 
-This contains create a simple "Hello World" API. Meaning:  
+This contains a simple "Hello World" API. Meaning:  
 
 1. It should be a RESTful JSON API that listens on a port of your choice.  
 
